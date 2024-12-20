@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset=/AcsCAS23/CAS.tif>
+ <source media="(prefers-color-scheme: light)" srcset=/AcsCAS23/Deer Office.jpg>
+ <img alt="My Workplace" src="My Office">
 </picture>
 
 # Hi there 👋 👀

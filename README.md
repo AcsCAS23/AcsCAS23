@@ -1,10 +1,12 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="/CAS.tif">
- <source media="(prefers-color-scheme: light)" srcset="/Deer%20Office.jpg" width=50% height=50%>
+ <source media="(prefers-color-scheme: light)" srcset="/Deer%20Office.jpg" width=30% height=30%>
  <img alt="My Workplace" src="My Office">
 </picture>
 
-# Hi there 👋 👀
+# Hi there!
+👋 👀
+Best Office Ever!
 
 ## Likes: ⌬⚛🧪🔬🧬👨🏻‍🔬
 ## 🏕 🛶

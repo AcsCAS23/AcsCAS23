@@ -8,12 +8,26 @@
 👋 👀
 Best Office Ever!
 
+
 ## Likes: ⌬⚛🧪🔬🧬👨🏻‍🔬
 ## 🏕 🛶
 ## 🏍🏎
 ## 🎵
 
-> ### (I'm _totally_ new to this!)
+<details>
+ <summary>LIKES</summary>
+ 
+| Rank | LIKES |
+|-----:|------------------|
+|     1| Science          |
+|     2| Camping/Canoeing |
+|     3| Motorcycles/F1   |
+|     4| Music!!!         |
+ 
+</details>
+
+---
+> I'm _totally_ new to this!
 <!--
 **AcsCAS23/AcsCAS23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

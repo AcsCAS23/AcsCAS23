@@ -4,10 +4,11 @@
  <img alt="My Workplace" src="My Office">
 </picture>
 
-# Hi there!
+## Hi there!
 👋 👀
 Best Office Ever!
 
+<!-- TO DO: add more details about me later -->
 
 ## Likes: ⌬⚛🧪🔬🧬👨🏻‍🔬
 ## 🏕 🛶

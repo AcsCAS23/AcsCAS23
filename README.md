@@ -1,6 +1,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="/CAS.tif">
- <source media="(prefers-color-scheme: light)" srcset="/Deer%20Office.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="/Deer%20Office.jpg" width=50% height=50%>
  <img alt="My Workplace" src="My Office">
 </picture>
 
